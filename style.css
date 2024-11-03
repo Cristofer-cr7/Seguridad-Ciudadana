@@ -3,10 +3,10 @@
   margin: 0;
  }
 title {
-  text-algin: center;
-  background-color: #141414 black;
-  color: #faf9f7 white;
-  padding: 20px;
+       text-algin: center;
+       background-color: #141414 black;
+       color: #faf9f7 white;
+       padding: 20px;
 }
 nav ul {
   background-color :grey;
